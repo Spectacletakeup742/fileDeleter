@@ -1,0 +1,38 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    compileSdkVersion 31
+
+    defaultConfig {
+        applicationId "com.epcdiy.filedeleter"
+        minSdkVersion 31
+        targetSdkVersion 31
+        versionCode 2
+        versionName "1.0"
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    buildToolsVersion '31'
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    implementation 'androidx.activity:activity:1.2.3'
+    // 建议至少使用以下版本或更高
+    implementation 'androidx.appcompat:appcompat:1.4.0'
+    implementation 'androidx.activity:activity:1.4.0' // 必须包含这个
+
+    // 如果你使用了 DocumentFile，还需要这个
+    implementation 'androidx.documentfile:documentfile:1.0.1'
+}
